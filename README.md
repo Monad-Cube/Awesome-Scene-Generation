@@ -1,6 +1,11 @@
-# Awesome-Procedural-Content-Generation
-Collection of procedural generation method and projection
+# Awesome-Scene-Generation
+Collection of scenegeneration method and project
 
+- [Procedural methods](#PCG)
+- [Neural methods](#Neural)
+
+<a name="PCG"></a>
+## Procedural Scene Generation
 - [Landscape](#Landscape)
 - [City](#City)
 - [Texture](#Texture)
@@ -10,42 +15,46 @@ Collection of procedural generation method and projection
 - [Reference](#Reference)
 
 <a name="Landscape"></a>
-## Landscape
+### Landscape
 |   Type  | Venue | Software |   Paper/Blog   |   Video  |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 <a name="City"></a>
-## City
+### City
 |   Type  | Venue | Software |   Paper/Blog   |   Video  |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 <a name="Texture"></a>
-## Texture
+### Texture
 |   Type  | Venue | Software |   Paper/Blog   |   Video  |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 <a name="Object"></a>
-## Object
+### Object
 |   Type  | Venue | Software |   Paper/Blog   |   Video  |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 <a name="IR"></a>
-## Indoor Room
+### Indoor Room
 |   Name  | Venue | Software |   Paper/Blog   |   Video/Website  |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Holodeck| CVPR 2024 | Unity | [arxiv](https://arxiv.org/abs/2312.09067)|[homepage](https://yueyang1996.github.io/holodeck/)|[git](https://github.com/allenai/Holodeck)|  
 
 <a name="Tutorial"></a>
-## Tutorial
+### Tutorial
 |   Type  | Venue | Software |   Blog   |   Video  |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Terrain| GDC 2023 | UE |:--------:|[click-to-videol](https://www.youtube.com/watch?v=aoCGLW53fZg)|:--------:|
 
 <a name="Reference"></a>
-## Reference
+### Reference
 - conference  
 Game Developers Conference  https://gdconf.com/  
 
 - journal
 
 - workshop
+
+<a name="Neural"></a>
+## Neural Scene Generation
+
